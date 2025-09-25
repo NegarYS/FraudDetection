@@ -47,7 +47,8 @@ fraud-detection-car-insurance/
    ```  
 2.Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy matplotlib seaborn scikit-learn lazypredict
+
    ```
 3.Run the notebook:
    ```bash
